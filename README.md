@@ -101,11 +101,11 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 
   <!--<img src="https://github-readme-stats.vercel.app/api?username=techguru0&show_icons=true&theme=default" width="800">-->
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+[![Tech Guru's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=techguru0\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/techguru0/github-readme-stats#responsive-card-theme#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techguru0)
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
+![Tech Guru's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
 
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
