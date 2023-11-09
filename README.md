@@ -101,7 +101,11 @@ I am a Senior Software Engineer <img src="https://media.giphy.com/media/WUlplcMp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=techguru0&show_icons=true&theme=default" width="800">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 </p>
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
+
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 
