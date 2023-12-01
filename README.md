@@ -100,9 +100,9 @@ I am a Crazy Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=techguru0&show_icons=true&theme=default" width="800">-->
-[![Tech Guru's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=techguru0\&show_icons=true\&theme=default#gh-light-mode-only)]
+![Tech Guru's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=techguru0\&show_icons=true\&theme=default#gh-light-mode-only)
 
-[![Tech Guru's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techguru0)]
+![Tech Guru's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techguru0)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techguru0)
 <!--[![Tech Guru's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=techguru0&Cache-Control=no-cache)](https://github.com/techguru0/techguru0)-->
 
