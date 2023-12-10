@@ -103,7 +103,7 @@ I am a Crazy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
 <!--<img src="https://github-readme-stats.vercel.app/api?username=NapoleonBC&show_icons=true&theme=default" width="800">-->
 ![Tech Guru's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=NapoleonBC\&show_icons=true\&theme=default#gh-light-mode-only)
 
-![Tech Guru's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NapoleonBC)
+![Tech Guru's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=techguru0)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NapoleonBC)
 <!--[![Tech Guru's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=NapoleonBC&Cache-Control=no-cache)](https://github.com/NapoleonBC/NapoleonBC)-->
