@@ -21,7 +21,7 @@ I am a Crazy <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gi
 - 🔭 I’m working as a Lead Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I solve problems on Codeforces and read tech articles.
-- 😒 I spend my spare time working on personal projects and code review.
+- 😒 I spend my spare time working on personal projects and solve problems on Codeforces.
 - 📫 How to reach me: &nbsp; [![Telegram Badge](https://img.shields.io/badge/-CC-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ssuperiorc)
 
 ---
